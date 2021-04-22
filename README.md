@@ -43,4 +43,4 @@ module.exports = {
 
 ## Why would you want to force the .vue extension in imports?
 Because in the VS Code `Vetur` extension, you need to have `.vue` extension in imports in order to `Go to definition` right click option working in template.
-More info: https://vuejs.github.io/vetur/FAQ.html#vetur-cannot-recognize-my-vue-component-import-such-as-import-comp-from-comp
+More info: https://vuejs.github.io/vetur/guide/FAQ.html#vetur-cannot-recognize-my-vue-component-import-such-as-import-comp-from-comp
